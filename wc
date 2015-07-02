@@ -1,0 +1,3 @@
+Gives word count and related information on given file. As standard: lines, words, bytes.
+Optionally returns characters, word count, max line length.
+Especially useful for counting lines (using -l option) when filtering with piping.
