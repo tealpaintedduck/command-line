@@ -1,0 +1,2 @@
+Instructs comp to search for given string/regex, optionally within files.
+Very useful when re-directing streams for filtering.
